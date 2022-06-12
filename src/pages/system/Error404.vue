@@ -22,10 +22,10 @@
   </div>
 </template>
 
-<script>
+<script lang="ts">
 import { defineComponent } from 'vue'
 
 export default defineComponent({
-  name: 'ErrorNotFound'
+  name: 'Error404'
 })
 </script>
