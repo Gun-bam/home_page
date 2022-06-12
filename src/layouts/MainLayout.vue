@@ -13,10 +13,10 @@ fixme 버튼 이동 루트 설정 해야됨.
       </section>
 
       <!-- fixme #400 Page T Btn -->
-      <section class="q-pa-xs full-width flex flex-center" style="">
+      <section class="q-pa-xs full-width flex flex-center">
         <!-- fixme #401 Page T Category Btn -->
         <q-btn
-          class="webtext webtext1 text-black"
+          class="webtext webtext1 text-black text-bold"
           label="GunBam"
           style="width: 21vw"
           @click="home"
@@ -26,7 +26,7 @@ fixme 버튼 이동 루트 설정 해야됨.
 
         <!-- fixme #402 Page T Category Btn -->
         <q-btn
-          class="webtext webtext1 text-black"
+          class="webtext webtext1 text-black text-bold"
           label="이벤트"
           style="width: 21vw"
           disable
@@ -36,7 +36,7 @@ fixme 버튼 이동 루트 설정 해야됨.
 
         <!-- fixme #403 Page T Category Btn -->
         <q-btn
-          class="webtext webtext1 text-black display"
+          class="webtext webtext1 text-black display text-bold"
           style="width: 21vw"
           @click="QnA"
           flat
