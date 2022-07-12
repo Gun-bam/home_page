@@ -13,25 +13,27 @@
         <div class="displayRemove1" data-aos="zoom-in" data-aos-duration="2000">
           <q-img
             class="q-my-md imgSize _imgcontent1 _imgcontent3"
-            src="/gunbam/mockup_01.png"
+            src="/gunbam/phone.png"
             style="min-width: 19vw"
           />
         </div>
+
+        <div class="text"></div>
 
         <div
           class="_content q-mx-xl text-h5 text-weight-bold"
           style="margin-bottom: 140px; color: #727171"
         >
           <div style="font-size: 20px">
-            <q-img src="/imgs/textLogo.png" style="width: 115px" /><br />
+            <!-- <q-img src="/imgs/textLogo.png" style="width: 115px" /><br /> -->
 
+            <div class="" style="color: #f1a6a6">GunBam<br /></div>
             <div class="he" style="color: #f1a6a6">ㅡ<br /></div>
 
             <div class="textsize1 textsize2">
-              <span style="color: #111111">결제서비스</span>와
-              <span class="text-black">송금서비스</span>를 보다 안전하고<br />빠르게
-              제공하는
-              <span class="text-black">핀테크 메신저 app</span> 입니다.<br />
+              <span style="color: #111111">간편한 어플로</span>
+              안전하고 빠르게 제공하는<br />
+              <span class="text-black">서비스 app</span> 입니다.<br />
             </div>
 
             <div class="q-my-md row">
@@ -53,7 +55,7 @@
         >
           <q-img
             class="imgSize _imgcontent1 _imgcontent3"
-            src="/gunbam/mockup_01.png"
+            src="/gunbam/phone.png"
             style="min-width: 15vw"
           />
         </div>
@@ -64,7 +66,7 @@
         <div class="displayRemove1" data-aos="zoom-in" data-aos-duration="2000">
           <q-img
             class="q-mt-xl q-mb-md imgSize _imgcontent1 _imgcontent3"
-            src="/gunbam/mockup_02.png"
+            src="/gunbam/phone.png"
             style="min-width: 19vw"
           />
         </div>
@@ -77,7 +79,7 @@
         >
           <q-img
             class="imgSize _imgcontent1 _imgcontent3"
-            src="/gunbam/mockup_02.png"
+            src="/gunbam/phone.png"
             style="min-width: 15vw"
           />
         </div>
@@ -102,7 +104,7 @@
               <span style="">언제 어디서든 </span>
               <span style="color: #111111">gunbam를 충전</span><span>하고</span
               ><br />
-              <span class="text-black">실시간으로 출금</span>
+              <span class="text-black">실시간으로123123 출금</span>
               <span>할 수 있습니다.</span>
             </div>
           </div>
@@ -114,7 +116,7 @@
         <div class="displayRemove1" data-aos="zoom-in" data-aos-duration="2000">
           <q-img
             class="q-mt-xl q-mb-md imgSize _imgcontent1 _imgcontent3"
-            src="/gunbam/mockup_03.png"
+            src="/gunbam/phone.png"
             style="min-width: 19vw"
           />
         </div>
@@ -151,7 +153,7 @@
         >
           <q-img
             class="imgSize _imgcontent1 _imgcontent3"
-            src="/gunbam/mockup_03.png"
+            src="/gunbam/phone.png"
             style="min-width: 15vw"
           />
         </div>
@@ -162,7 +164,7 @@
         <div class="displayRemove1" data-aos="zoom-in" data-aos-duration="2000">
           <q-img
             class="q-mt-xl q-mb-md imgSize _imgcontent1 _imgcontent3"
-            src="/gunbam/mockup_04.png"
+            src="/gunbam/phone.png"
             style="min-width: 19vw"
           />
         </div>
@@ -175,7 +177,7 @@
         >
           <q-img
             class="imgSize _imgcontent1 _imgcontent3"
-            src="/gunbam/mockup_04.png"
+            src="/gunbam/phone.png"
             style="min-width: 15vw"
           />
         </div>
@@ -198,165 +200,11 @@
               <span>메신저 내에서 </span>
               <span style="color: #111111">친구만 등록</span>
               <span>하면</span><br />
-              <span>번거로운 </span>
+              <span>번거로운 asd</span>
               <span class="text-black">절차 없이 바로 송금 가능</span>
             </div>
           </div>
         </div>
-      </div>
-    </section>
-
-    <!-- fixme #101 Page M Content2 -->
-    <section class="bg-white">
-      <div
-        class="text-h4 text-bold text-center flex flex-center"
-        style="height: 180px"
-      >
-        메신저 주요 기능
-      </div>
-      <!-- fixme #204 Img : Mobile Style css -->
-      <div class="item row q-mb-xl flex flex-center">
-        <!-- fixme #201 Img : Mobile Style css -->
-        <div class="displayRemove1" data-aos="zoom-in" data-aos-duration="2000">
-          <q-img
-            class="q-mt-md imgSize _imgcontent1 _imgcontent3"
-            src="/gunbam/mockup_05.png"
-            style="min-width: 15vw"
-          />
-        </div>
-
-        <div class="displayRemove" data-aos="zoom-in" data-aos-duration="2000">
-          <q-img
-            class="imgSize _imgcontent1 _imgcontent3"
-            src="/gunbam/mockup_05.png"
-            style="min-width: 15vw"
-          />
-        </div>
-
-        <div
-          class="_content2 text-h5 q-mx-xl text-weight-bold"
-          style="z-index: 1; color: #727171"
-        >
-          <div style="font-size: 25px">
-            <div class="q-mb-md text-bold text-black fontSize2">실시간채팅</div>
-            <div class="textsize1 textsize2">
-              <span>1:1 채팅, 그룹채팅을 활용해서</span><br />
-              <span>다양한 소통을 즐겨보세요.</span>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- fixme #205 Img : Mobile Style css -->
-      <div class="item row q-mb-xl flex flex-center" style="">
-        <!-- fixme #201 Img : Mobile Style css -->
-        <div class="displayRemove1" data-aos="zoom-in" data-aos-duration="2000">
-          <q-img
-            class="q-mt-md imgSize _imgcontent1 _imgcontent3"
-            src="/gunbam/mockup_06.png"
-            style="min-width: 19vw"
-          />
-        </div>
-
-        <div class="displayRemove" data-aos="zoom-in" data-aos-duration="2000">
-          <q-img
-            class="imgSize _imgcontent1 _imgcontent3"
-            src="/gunbam/mockup_06.png"
-            style="min-width: 15vw"
-          />
-        </div>
-
-        <div
-          class="_content2 text-h5 q-mx-xl text-weight-bold"
-          style="z-index: 1; color: #727171"
-        >
-          <div style="font-size: 25px">
-            <div class="q-mb-md text-bold text-black fontSize2">음성통화</div>
-            <div class="textsize1 textsize2">
-              <span>채팅만으로 전달되지 않는 소통은</span><br />
-              <span>음성통화를 활용해서 나눠보세요.</span>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- fixme #206 Img : Mobile Style css -->
-      <div class="item row q-mb-xl flex flex-center" style="">
-        <!-- fixme #201 Img : Mobile Style css -->
-        <div class="displayRemove1" data-aos="zoom-in" data-aos-duration="2000">
-          <q-img
-            class="q-mt-md imgSize _imgcontent1 _imgcontent3"
-            src="/gunbam/mockup_07.png"
-            style="min-width: 19vw"
-          />
-        </div>
-
-        <div class="displayRemove" data-aos="zoom-in" data-aos-duration="2000">
-          <q-img
-            class="imgSize _imgcontent1 _imgcontent3"
-            src="/gunbam/mockup_07.png"
-            style="min-width: 15vw"
-          />
-        </div>
-
-        <div
-          class="_content2 text-h5 q-mx-xl text-weight-bold"
-          style="z-index: 1; color: #727171"
-        >
-          <div style="font-size: 25px">
-            <div class="q-mb-md text-bold text-black fontSize2">군밤센터</div>
-            <div class="textsize1 textsize2">
-              <span>보유한 군밤부터 송금한 군밤까지</span><br />
-              <span>어플 내부에서 활용한 모든 군밤</span><br />
-              <span>정보를 한번에 모아서 확인할 수</span><br />
-              <span>있는 지갑을 활용해보세요.</span>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- fixme #207 Img : Mobile Style css -->
-      <div class="Center item row q-mb-xl flex flex-center">
-        <!-- fixme #201 Img : Mobile Style css -->
-        <div class="displayRemove" data-aos="zoom-in" data-aos-duration="2000">
-          <q-img
-            class="q-mt-md imgSize3 imgSize2 _imgcontent5"
-            src="/gunbam/mockup_pc.png"
-            style="min-width: 19vw"
-          />
-        </div>
-        <div class="displayRemove1" data-aos="zoom-in" data-aos-duration="2000">
-          <q-img
-            class="q-mt-md imgSize3 imgSize2"
-            src="/gunbam/mockup_pc.png"
-            style="min-width: 15vw"
-          />
-        </div>
-
-        <div
-          class="q-mb-xl _content2 text-h5 q-mx-xl text-weight-bold"
-          style="z-index: 1; color: #727171"
-        >
-          <div style="font-size: 25px">
-            <div class="q-mb-md text-bold text-black fontSize2">PC용 어플</div>
-            <div class="textsize1 textsize2">
-              <span>모바일뿐만 아니라 PC에서도</span><br />
-              <span>사용할 수 있는 어플로</span><br />
-              <span>다양한 환경에서 군밤를 사용해보세요.</span>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- fixme #208 Ios,Android BTN -->
-      <div class="text-center" style="height: 350px">
-        <div class="q-mb-lg text-h4 text-bold">지금 바로 설치하기</div>
-        <q-btn flat dense>
-          <q-img class="test" src="/imgs/ios.png" style="width: 193px" />
-        </q-btn>
-        <q-btn flat dense>
-          <q-img class="test" src="/imgs/android.png" style="width: 193px" />
-        </q-btn>
       </div>
     </section>
 
@@ -480,7 +328,7 @@ export default {
 
 @media (max-width: 1460px) {
   .imgSize {
-    height: 400px;
+    height: 415px;
     width: 210px;
     max-width: 210px;
   }
@@ -492,7 +340,7 @@ export default {
 }
 
 /*@media (max-width: 677px) {*/
-@media (max-width: 677px) {
+@media (max-width: 720px) {
   /* Content1 Text */
   .centerMargin1 {
     margin-left: 20px;

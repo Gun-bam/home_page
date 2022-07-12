@@ -27,7 +27,7 @@ fixme 버튼 이동 루트 설정 해야됨.
         <!-- fixme #402 Page T Category Btn -->
         <q-btn
           class="webtext webtext1 text-black text-bold"
-          label="이벤트"
+          label="EVENT"
           style="width: 21vw"
           disable
           flat
@@ -42,7 +42,7 @@ fixme 버튼 이동 루트 설정 해야됨.
           flat
           dense
         >
-          고객센터 <span class="display123"> (FAQ)</span>
+          <span class="display123">FAQ</span>
         </q-btn>
       </section>
     </q-header>
