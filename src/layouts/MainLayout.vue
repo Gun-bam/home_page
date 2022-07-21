@@ -8,15 +8,26 @@ fixme 버튼 이동 루트 설정 해야됨.
       <!-- fixme header btn -->
       <section class="q-py-sm flex flex-center">
         <q-btn flat dense @click="home">
+<<<<<<< Updated upstream
           <img class="mainLogosize logosize" src="/icons/favicon-128x128.png" />
+=======
+          <img class="mainLogosize logosize" src="/gunbam/mainLogo.png" />
+>>>>>>> Stashed changes
         </q-btn>
       </section>
 
       <!-- fixme #400 Page T Btn -->
+<<<<<<< Updated upstream
       <section class="q-pa-xs full-width flex flex-center">
         <!-- fixme #401 Page T Category Btn -->
         <q-btn
           class="webtext webtext1 text-black text-bold"
+=======
+      <section class="q-pa-xs full-width flex flex-center" style="">
+        <!-- fixme #401 Page T Category Btn -->
+        <q-btn
+          class="webtext webtext1 text-black"
+>>>>>>> Stashed changes
           label="GunBam"
           style="width: 21vw"
           @click="home"
@@ -26,8 +37,13 @@ fixme 버튼 이동 루트 설정 해야됨.
 
         <!-- fixme #402 Page T Category Btn -->
         <q-btn
+<<<<<<< Updated upstream
           class="webtext webtext1 text-black text-bold"
           label="EVENT"
+=======
+          class="webtext webtext1 text-black"
+          label="이벤트"
+>>>>>>> Stashed changes
           style="width: 21vw"
           disable
           flat
@@ -36,13 +52,21 @@ fixme 버튼 이동 루트 설정 해야됨.
 
         <!-- fixme #403 Page T Category Btn -->
         <q-btn
+<<<<<<< Updated upstream
           class="webtext webtext1 text-black display text-bold"
+=======
+          class="webtext webtext1 text-black display"
+>>>>>>> Stashed changes
           style="width: 21vw"
           @click="QnA"
           flat
           dense
         >
+<<<<<<< Updated upstream
           <span class="display123">FAQ</span>
+=======
+          고객센터 <span class="display123"> (FAQ)</span>
+>>>>>>> Stashed changes
         </q-btn>
       </section>
     </q-header>
@@ -117,14 +141,21 @@ export default {
 };
 </script>
 
+<<<<<<< Updated upstream
 <!-- logosize = 180px 기준 -->
+=======
+>>>>>>> Stashed changes
 <style>
 .webtext {
   font-size: 1rem;
 }
 
 .logosize {
+<<<<<<< Updated upstream
   width: 100px;
+=======
+  width: 180px;
+>>>>>>> Stashed changes
 }
 
 @media (max-width: 500px) {
