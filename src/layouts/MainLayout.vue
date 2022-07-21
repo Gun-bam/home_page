@@ -8,7 +8,7 @@ fixme 버튼 이동 루트 설정 해야됨.
       <!-- fixme header btn -->
       <section class="q-py-sm flex flex-center">
         <q-btn flat dense @click="home">
-          <img class="mainLogosize logosize" src="/gunbam/mainLogo.png" />
+          <img class="mainLogosize logosize" src="/icons/favicon-128x128.png" />
         </q-btn>
       </section>
 
@@ -123,7 +123,7 @@ export default {
 }
 
 .logosize {
-  width: 180px;
+  width: 100px;
 }
 
 @media (max-width: 500px) {

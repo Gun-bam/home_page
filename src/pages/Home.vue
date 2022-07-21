@@ -31,9 +31,10 @@
             <div class="he" style="color: #f1a6a6">ㅡ<br /></div>
 
             <div class="textsize1 textsize2">
-              <span style="color: #111111">간편한 어플로</span>
-              안전하고 빠르게 제공하는<br />
-              <span class="text-black">서비스 app</span> 입니다.<br />
+              <span>간단한 App으로 </span>
+              <spen style="color: #111111">안전하고 빠르게 </spen><br />
+              <spen>전자기기를 수리 서비스를 제공하는</spen><br />
+              <span class="text-black">서비스 App</span> 입니다.<br />
             </div>
 
             <div class="q-my-md row">
@@ -93,7 +94,7 @@
               class="text-bold fontSize1"
               style="font-size: 25px; color: #f1a6a6"
             >
-              365 입출금 서비스
+              언제든지 어디서든지
             </div>
 
             <div class="he" style="color: #f1a6a6; font-size: 20px">
@@ -101,11 +102,13 @@
             </div>
 
             <div class="textsize1 textsize2">
-              <span style="">언제 어디서든 </span>
-              <span style="color: #111111">gunbam를 충전</span><span>하고</span
-              ><br />
-              <span class="text-black">실시간으로123123 출금</span>
-              <span>할 수 있습니다.</span>
+              <span>어디서든 </span>
+              <span style="color: #111111">gunbam</span>
+              <spen>을 이용하여</spen><br />
+              <spen style="color: #111111">언제든지 </spen
+              ><spen>전자기기 수리가 필요하면</spen><br />
+              <span class="text-black">고객님 편한곳 </span>
+              <span>까지 찾아 갈 수 있습니다.</span>
             </div>
           </div>
         </div>
@@ -130,17 +133,16 @@
               class="text-bold fontSize1"
               style="font-size: 23px; color: #f1a6a6"
             >
-              실시간 소통하는 메신저
+              합리적인 금액
             </div>
 
             <div class="he" style="color: #f1a6a6">ㅡ<br /></div>
 
             <div class="textsize1 textsize2">
-              <span>친구 추가한 </span>
-              <span style="color: #111111">유저들과 실시간</span
-              ><span>으로</span><br />
-              <span class="text-black">소통이 가능한 메시저</span
-              ><span>를 활용해 보세요.</span>
+              <span style="color: #111111">합리적인 금액 최고의 서비스</span>
+              <br />
+              <span class="text-black">gunbam</span
+              ><span>이 책임 지겠습니다.</span>
             </div>
           </div>
         </div>
