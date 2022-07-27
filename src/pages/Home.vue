@@ -7,7 +7,7 @@
 <template>
   <q-page>
     <!-- fixme #100 Page M Content1 -->
-    <section class="content" style="background-color: #f9f9f9">
+    <section class="content" style="background-color: white">
       <!-- fixme #200 Img : Mobile Style css -->
       <div class="item row text-center flex-center">
         <div class="displayRemove1" data-aos="zoom-in" data-aos-duration="2000">
@@ -27,8 +27,8 @@
           <div style="font-size: 20px">
             <!-- <q-img src="/imgs/textLogo.png" style="width: 115px" /><br /> -->
 
-            <div class="" style="color: #f1a6a6">GunBam<br /></div>
-            <div class="he" style="color: #f1a6a6">ㅡ<br /></div>
+            <div style="font-size: 25px; color: #990000">GunBam<br /></div>
+            <br />
 
             <div class="textsize1 textsize2">
               <span>간단한 App으로 </span>
@@ -92,14 +92,11 @@
           <div>
             <div
               class="text-bold fontSize1"
-              style="font-size: 25px; color: #f1a6a6"
+              style="font-size: 25px; color: #990000"
             >
               언제든지 어디서든지
             </div>
-
-            <div class="he" style="color: #f1a6a6; font-size: 20px">
-              ㅡ<br />
-            </div>
+            <br />
 
             <div class="textsize1 textsize2">
               <span>어디서든 </span>
@@ -131,12 +128,11 @@
           <div>
             <div
               class="text-bold fontSize1"
-              style="font-size: 23px; color: #f1a6a6"
+              style="font-size: 23px; color: #990000"
             >
               합리적인 금액
             </div>
-
-            <div class="he" style="color: #f1a6a6">ㅡ<br /></div>
+            <br />
 
             <div class="textsize1 textsize2">
               <span style="color: #111111">합리적인 금액 최고의 서비스</span>
@@ -191,19 +187,18 @@
           <div>
             <div
               class="text-bold fontSize1"
-              style="font-size: 25px; color: #f1a6a6"
+              style="font-size: 25px; color: #990000"
             >
-              편리한 친구 송금
+              어떠한 문제 라도
             </div>
-
-            <div class="he" style="color: #f1a6a6">ㅡ<br /></div>
+            <br />
 
             <div class="textsize1 textsize2">
-              <span>메신저 내에서 </span>
-              <span style="color: #111111">친구만 등록</span>
+              <span>원하는 수리를 </span>
+              <span style="color: #111111">간단히 요청만 </span>
               <span>하면</span><br />
-              <span>번거로운 asd</span>
-              <span class="text-black">절차 없이 바로 송금 가능</span>
+              <span class="text-black">절차 없이 바로 </span>
+              <spen>바로 견적 보내드립니다.</spen>
             </div>
           </div>
         </div>
