@@ -45,7 +45,7 @@ fixme 버튼 이동 루트 설정 해야됨.
           flat
           dense
         >
-          <span class="display123">QNA</span>
+          <span>QNA</span>
         </q-btn>
       </section>
     </q-header>
@@ -130,9 +130,6 @@ export default {
 }
 
 @media (max-width: 500px) {
-  .display123 {
-    display: none;
-  }
   .mainLogosize {
     width: 100px;
   }
