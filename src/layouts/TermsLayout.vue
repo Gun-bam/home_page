@@ -8,7 +8,7 @@ fixme 버튼 이동 루트 설정 해야됨.
       <!-- fixme header btn -->
       <section class="q-pt-sm flex flex-center">
         <div class="">
-          <img class="mainLogosize logosize" src="/gunbam/mainLogo.png" />
+          <img class="mainLogosize logosize" src="/gunbam/Main.png" />
         </div>
       </section>
 
@@ -50,7 +50,7 @@ fixme 버튼 이동 루트 설정 해야됨.
       <router-view />
     </q-page-container>
 
-    <q-footer class="text-center bg-grey-8 q-py-lg">
+    <q-footer class="text-center bg-brown q-py-lg">
       <section>
         <div class="text-bold q-pb-sm" style="font-size: 1rem">
           (주)GunBam<br />
@@ -98,7 +98,7 @@ export default {
 }
 
 .logosize {
-  width: 180px;
+  width: 100px;
 }
 
 @media (max-width: 590px) {

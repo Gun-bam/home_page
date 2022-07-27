@@ -8,12 +8,15 @@ fixme 버튼 이동 루트 설정 해야됨.
       <!-- fixme header btn -->
       <section class="q-py-sm flex flex-center">
         <q-btn flat dense @click="home">
-          <img class="mainLogosize logosize" src="/icons/favicon-128x128.png" />
+          <img class="mainLogosize logosize" src="/gunbam/Main.png" />
         </q-btn>
       </section>
 
       <!-- fixme #400 Page T Btn -->
-      <section class="q-pa-xs full-width flex flex-center">
+      <section
+        class="q-pa-xs full-width flex flex-center"
+        style="border-bottom: solid 3px #d9d9d9"
+      >
         <!-- fixme #401 Page T Category Btn -->
         <q-btn
           class="webtext webtext1 text-black text-bold"
@@ -42,7 +45,7 @@ fixme 버튼 이동 루트 설정 해야됨.
           flat
           dense
         >
-          <span class="display123">FAQ</span>
+          <span class="display123">QNA</span>
         </q-btn>
       </section>
     </q-header>
@@ -51,7 +54,7 @@ fixme 버튼 이동 루트 설정 해야됨.
       <router-view />
     </q-page-container>
 
-    <q-footer class="text-center bg-grey-8 q-py-lg">
+    <q-footer class="text-center bg-brown q-py-lg">
       <section>
         <div class="q-mb-md">
           <q-btn
@@ -75,7 +78,7 @@ fixme 버튼 이동 루트 설정 해야됨.
         </div>
 
         <div class="text-bold q-pb-sm" style="font-size: 1rem">
-          (주)GunBam<br />
+          (주) GunBam<br />
         </div>
         <div>서울특별시 금천구 독산동(주)GunBam</div>
         <div>사업자등록번호 : 123-45-67890</div>
